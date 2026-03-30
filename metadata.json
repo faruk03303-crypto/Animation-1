@@ -1,0 +1,7 @@
+{
+  "name": "PixarAnim Studio",
+  "description": "A professional AI-powered animation studio for creating Pixar-style stylized cartoon videos with ease.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
